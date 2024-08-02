@@ -16,6 +16,6 @@ project_id = "cymbal-bank-431115"
 region     = "us-central1"
 zone       = "us-central1-b"
 
-repo_owner  = "GoogleCloudPlatform"
+repo_owner  = "derrickchwong"
 sync_repo   = "bank-of-anthos"
 sync_branch = "main"
